@@ -1,0 +1,25 @@
+@import url("haiku.css");
+
+div.content {
+  font-size:1em;
+}
+
+h2 {
+  font-weight:bold;
+  border-bottom: medium dotted #E0E0E0;
+}
+
+div.highlight ,div.highlight pre, div.highlight-scala ,div.highlight-scala pre, div.highlight-python , div.highlight-python pre {
+  font-family:"ＭＳ Ｐゴシック","Mona","mona-gothic-jisx0208.1990-0", monospace;
+  font-size:16px;
+}
+
+div.custom em{
+    color:red;
+}
+
+div.custom strong{
+    color:green;
+}
+
+
